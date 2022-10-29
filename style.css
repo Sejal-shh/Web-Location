@@ -21,7 +21,7 @@ hr{
    
   );
   border-style: none none dotted;
-  border-color: black;
+  border-color: Grey;
   border-width: 7px;
   width: 5%;
 }
@@ -32,7 +32,7 @@ html {
   background-repeat: no-repeat;
 }
 header {
-  background-color:rgb(0, 179, 137)
+  background-color:rgb(0, 128, 220)
 }
 
 header h1 {
